@@ -43,7 +43,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/a2.avif",
+			"assets/images/DesktopWallpaper/a3.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -81,10 +81,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"可时光啊，不听话，总催着人长大",
-				"人生苦短何必念念不忘",
-				"潺潺流水终于穿过了群山一座座",
-				"可是我偏偏就是不想要转弯",
+				"所谓的冒险，并不是为了抵达终点，而是为了记住同行的人",
+				"那不是无聊的魔法。那是某个人珍视过的东西",
+				"不是因为强大才值得被记住，而是因为温柔",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
