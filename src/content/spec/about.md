@@ -1,27 +1,30 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **xzc** ，很高兴我们在Summer Solace相识。
+
+先简单介绍一下我自己吧，BUAA计算机学院本科在读
+
+爱好：
+
+发育路牢玩家(**敖隐**，**香香**，苍) ，燕云双刀派，KPL(**AG**)粉, 喜欢音乐
+
+有好感的明星：歌手 **毛不易**，薛之谦，邓紫棋，演员刘浩存，黄羿，运动员马龙
+
+喜欢安静，对锻炼持中立（懒）
+
+现充，二次元只推 **芙莉莲**，**义勇**，蝴蝶忍，蜜璃，三小只和祢豆子
+
+## 内容介绍
+
+记录本人生活中的点点滴滴，一些个人总结的期末复习，喜欢的音乐，重要的事件及感悟，
+
+偶尔会记录一些日常，不定期更新音乐和图库
 
 ## 🛠️ 关于本站
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
 **Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
 
 ---
 
