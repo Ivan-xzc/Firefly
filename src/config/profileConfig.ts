@@ -6,10 +6,10 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/Ivan.avif",
+	avatar: "assets/images/xzc.avif",
 
 	// 名字
-	name: "xzc",
+	name: "野梓不乖",
 
 	// 个人签名
 	bio: "一壶清酒，一身尘灰",

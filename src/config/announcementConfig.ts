@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "Let summer breezes ease all your restlessness.",
+	content: "BUAA_OS内容为本人上学期末理论复习笔记，内容仅供参考，若有错误请及时指出。",
 
 	// 是否允许用户关闭公告
 	closable: true,
