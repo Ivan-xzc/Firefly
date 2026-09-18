@@ -1,0 +1,10 @@
+models:
+  - name: DeepSeek Chat
+    provider: openai
+    model: deepseek-chat  
+    apiBase: https://api.deepseek.com/v1
+    apiKey: sk-d6600bcabcee47818d47815cfee12287
+    roles:
+      - chat
+      - edit
+      - apply

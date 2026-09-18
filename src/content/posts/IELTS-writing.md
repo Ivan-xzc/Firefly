@@ -376,7 +376,7 @@ the installation of some kitchen furniture
 
 # IELTS writing task 2
 
-## 1.structure
+## 1. structure
 
 Introduction - 2 sentences
 
@@ -384,7 +384,7 @@ Two main paragraphs - 5 sentences each
 
 Conclusion - 1 sentence
 
-## 2.Introduction 
+## 2. introduction 
 
 5 minutes
 2 sentences
@@ -395,3 +395,160 @@ Conclusion - 1 sentence
 four types of question:
 
 1.Discussion
+
+While there are some benefits to studying independently, I believe that group work is usually more productive.
+
+2.Opinion
+
+I completely agree that this kind of scheme would be a good idea.
+
+In my opinion, it would be wrong to force teenagers to do any kind of unsalaried work.
+
+3.Problem and solution
+
+There are various reasons why offenders repeatedly break the law, but governments could certainly take steps to address this issue.
+
+4.Two-part question
+
+While a variety of factors may lead to job satisfaction, it would be unrealistic to expect everyone to be happy at work.
+
+## 3. main body paragraph
+
+1. Firstly,Secondly,Finally
+2. Idea,Explain,Example
+
+## 4. conclusion
+
+- never write anything new
+- one sentence : repeat, summarise
+  
+1.Discussion
+
+2.u
+
+## 5. plan
+
+1. Read and understand the question
+
+- highlight / underline key parts
+
+2. Plan your essay structure
+
+- Introduction: topic + answer
+  
+  ep: study in groups or alone,
+
+  sometimes better alone, usually better in a groups
+
+- ep: Benefits of studying alone
+- ep: Benefits of group study
+- Conclusion: repeat answer
+
+  ep: both have benefits, but I perfer group
+
+3. Plan ideas for two main paragraphs(6 minutes)
+   
+- brainstorm, note down any ideas you have
+- develop ideas in detail
+- keeping asking yourself "why"
+- think of examples to support your ideas
+- finally, try to group related ideas (number them)
+  
+## 6.Opinion essay
+
+The money spent by governments on space programmes would be better spent on vital public services such as schools and hospitals.
+
+To what extent do you agree or disagree?
+
+Governments in some countries spend large amounts of money on space exploration programmes. I completely agree with the idea that these are a waste of money, and that the funds should be allocated to public services.
+
+Why space spending should be stopped
+
+There are several reasons why space programmes should be abandoned. Firstly, it is extremely expensive to train scientists and other staff involved with space missions, and facilities and equipment also come at a huge cost to the government. Secondly, these programmes do not benefit normal people in our daily lives; they are simply vanity projects for politicians. Finally, many missions to space fail completely, and the smallest technological error can cost astronauts their lives. The Challenger space shuttle disaster showed us that space travel is extremely dangerous, and in my opinion, it is not worth the risk.
+
+Why public sevice spending is better
+
+I believe that the money from space programmes should go to vital public services instead. It is much cheaper to train doctors, teachers, police and other public service workers than it is to train astronauts or the scientists and engineers who work on space explorations projects. Furthermore, public servants do jobs that have a positive impact on every member of society. For example, we all used schools, hospitals and roads, and we all need the security that police provide. If governments reallocated the money spent on space travel and researsh, many thousands of people could be lifted out of poverty or given a better quality of life.
+
+In conclusion, my view is that goverments should spend money on services that benefit all members of society, and it is wrong to waste resources on projects that do not improve our everyday life.
+
+- space programmes, exploration, misssions
+projects, travel, research
+
+- funds should be allocated (money should be used)
+
+- should be abandoned (stoppped)
+
+- facilities and equipment come at a huge cost(expensive)
+
+- vanity projects for politicians(show off)
+
+- can cost astronauts their lives(death)
+
+- space shuttle disaster(accident)
+
+- public servants
+
+- a positive impact on every number of society
+
+- if governments reallocated
+
+- could be lifted out of poverty(reduce poverty)
+
+- given a better quality of life
+
+## 7.Discussion essay
+
+Some people think that a sense of cmpetition children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.
+
+Discuss both these views and give your own opinion.
+
+People have different views about whether children should be taught to be competitive. While a spirit of competition can sometimes be useful in life, I believe that the ablity to co-operate is more important.
+
+
+Why encouage competition? - motivation
+
+On the one hand, competition can be a great source of motivation for children. When teachers use games or prizes to introduce an element of competitiveness into lessons, it can encourage chidren to work harder to outdo the other pupils in the class. This kind of healthy rivalry may help to build children's self-confidence, while pushing them to work independently and progress more quickly. When thee people leave school, their confidence and detetmination will help them in competitive situtations such as job interviews. It can therefore be agrued that competition should be encouraged in order to prepare children for adult life.
+
+Co-operation is more important 
+
+On the other hand, it is perhaps even more important to prepare children for many aspects of adult life that require co-operation. In the workplace, adults are expected to work in teams, follow instructions given by their superiors, or supervise and support the more junior members of staff. Team collaboration skills are much more useful than a competitive determination to win. This is the attitude that I believe schools should foster in young people. Instead of promoting the idea that people are either winners or losers, teachers could show children that they gain more from working together.
+
+In conclusion, I can understand why people might want to encourage competitiveness in children, but it seems to me that a co-operative attitude is much more desirable in adult life.
+
+- competition / co-operation, competitive, co-operative
+- a spirit of competition
+- a source of motivation
+- introduce an element of competitiveness
+- outdo other pupils, healthy rivalry
+- build self-confidence, determination
+- aspects of adult life
+- superiors, junior members of staff
+- team collaboration skills
+- attitude that schools should foster
+- promoting the idea
+- a co-operative attitude is more desirable
+
+## 8.Problem and solution
+
+- steps can be taken to tackle the problem
+- three main factors to blame
+- parents tend to be too lenient or permissive
+- children become accustomed to
+- limits imposed on them
+- quality of classroom management
+- celebrities, famous people, public figures
+- set an example
+- set firm rules, reasonable punishments
+- play an important role in
+- effective disciplinary techniques
+- responsibilities to act as role models
+- face discipline problems
+
+It is true that the behavior of school pupils in some parts of the world has been getting worse in recent years. There are a variety of possible reasons for this, but steps can definitely be taken to tackle the problem.
+
+In my opinion, three main factors are to blame for the way young people behave at school nowadays. Firstly, modern parents tend to be too lenient or permissive. Many children become accustomed to getting whatever they want, and they find it difficult to accept the demands of teachers or the limits imposed on them by school rules. Secondly, if teachers cannot control their students, ther must be an issue with the quality of classroom management training or support within schools. Finally, children are influnced by the behaviour of celebrities, many of whom set the example that succes canbe achieved without finishing school.
+
+Student behaviour can certainly be improved. I believe that the change must start with parents, who need to be persuaded that it is important to set firm rules for their children. When children misbehave or break the rules, parents should use reasonable punishments to demonstrate that actions have consequences. Also, schools could play a important role in training both teachers and parents to use effective disciplinary technique, and in improving the communication between both groups. At the same time, famous people, such as musicians and football players, need to understand the responsibility that they have to act as role models to children.
+
+In conclusion, school will continue to face discipline problems unless parents, teachers and public figures set clear rules and demonstrate the right behaviour themselves.
